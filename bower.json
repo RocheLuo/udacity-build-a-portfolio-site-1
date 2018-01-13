@@ -1,0 +1,20 @@
+{
+  "name": "udacity-build-a-portfolio-site",
+  "homepage": "https://github.com/tawatchair/udacity-build-a-portfolio-site",
+  "authors": [
+    "Tawatchai Rakpuen <me@tawatchairakpue.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "boostrap#^3.3.7"
+  }
+}
